@@ -1,7 +1,7 @@
 openmechanics 
 ======
 New repo updated Nov 2017 to prepare for future github pages:)
-======
+------
 *Please forgive me for any grammer errors:(*
 
 openmechanics project was founded for one purpose only and that is turning any car into self-driving car well that’s the plan. The open source software for self-driving cars already exists and it is called  [openpilot](http://github.com/commaai/openpilot). I have been following openpilot ever since it was lunched but due to the nature of needing car with sensors and hacking CAN bus not all were supported until a genius did the impossible and his name is [vntarasov]( https://www.zoneos.com/galant.htm).
